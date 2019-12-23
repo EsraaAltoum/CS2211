@@ -1,0 +1,33 @@
+Script started on 2019-09-17 16:52:27-04:00
+]0;ealtoum@compute:~/Tmp/CS2211a/Asn/asn1[ealtoum@compute asn1]$ ls -l
+total 2
+drwxrwxr-x 2 ealtoum ealtoum 3 Sep 17 16:30 [0m[38;5;33mdir0[0m
+drwxrwxr-x 2 ealtoum ealtoum 3 Sep 17 16:31 [38;5;33mdir1[0m
+-rw-rw-r-- 1 ealtoum ealtoum 0 Sep 17 16:52 typescript
+]0;ealtoum@compute:~/Tmp/CS2211a/Asn/asn1[ealtoum@compute asn1]$ ls di* -d
+[0m[38;5;33mdir0[0m  [38;5;33mdir1[0m
+]0;ealtoum@compute:~/Tmp/CS2211a/Asn/asn1[ealtoum@compute asn1]$ ls *
+typescript
+
+dir0:
+df0
+
+dir1:
+df1
+]0;ealtoum@compute:~/Tmp/CS2211a/Asn/asn1[ealtoum@compute asn1]$ ls * *
+typescript  typescript
+
+dir0:
+df0
+
+dir0:
+df0
+
+dir1:
+df1
+
+dir1:
+df1
+]0;ealtoum@compute:~/Tmp/CS2211a/Asn/asn1[ealtoum@compute asn1]$ exit
+
+Script done on 2019-09-17 16:53:59-04:00

@@ -1,0 +1,33 @@
+Script started on 2019-11-15 18:34:53-05:00
+]0;ealtoum@compute:~/cs2211/asn4[ealtoum@compute asn4]$ exit./euler[3Pexit./euler[2Pbstgcc -o bst data.c bst.c main.c[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./bst[K
+hi 1 1
+hello 1 2
+man 3 4
+bye 6 6
+bye 6 7
+bye 6 8
+morning 12 12
+(bye		6)	6
+(hello		1)	2
+(hi		1)	1
+(man		3)	4
+(morning		12)	12
+]0;ealtoum@compute:~/cs2211/asn4[ealtoum@compute asn4]$ ./bst[1Pexit./bst [K[K[K[K[K[Kcat input [K.txt
+hi 1 1
+hello 1 2
+hey 1 3
+guy 3 4
+egg 4 6
+egg 4 7
+man 19 30
+]0;ealtoum@compute:~/cs2211/asn4[ealtoum@compute asn4]$ cat input.txt[8P./bst < input.txt
+(egg		4)	6
+(guy		3)	4
+(hello		1)	2
+(hey		1)	3
+(hi		1)	1
+(man		19)	30
+]0;ealtoum@compute:~/cs2211/asn4[ealtoum@compute asn4]$ exit
+exit
+
+Script done on 2019-11-15 18:35:53-05:00

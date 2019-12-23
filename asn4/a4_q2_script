@@ -1,0 +1,38 @@
+Script started on 2019-11-15 18:13:53-05:00
+]0;ealtoum@compute:~/cs2211/asn4[ealtoum@compute asn4]$ exit./euler
+epsilon = 0.001 01
+e = 2.718254
+
+would you like to try another value (y/n): y
+epsilon = 0.0000001
+e = 2.718282
+
+would you like to try another value (y/n): y
+epsilon = 0.0000000001
+e = 2.718282
+
+would you like to try another value (y/n): y
+epsilon = 0.0000000000001
+e = 2.718282
+
+would you like to try another value (y/n): u y
+epsilon = 0.000\ 1
+e = 2.718254
+
+would you like to try another value (y/n): 0 y
+epsilon = 0.001
+e = 2.718056
+
+would you like to try another value (y/n): y
+epsilon = 0.01
+e = 2.708333
+
+would you like to try another value (y/n): y
+epsilon = 0.1
+e = 2.666667
+
+would you like to try another value (y/n): n
+]0;ealtoum@compute:~/cs2211/asn4[ealtoum@compute asn4]$ exit
+exit
+
+Script done on 2019-11-15 18:14:58-05:00

@@ -1,0 +1,20 @@
+Script started on 2019-10-20 20:43:32-04:00
+]0;ealtoum@compute:~/cs2211/asn3[ealtoum@compute asn3]$ exit0123456789[6P./p20123456789[6Pexit0123456789[6P./p2
+Enter an integer number:  0123456789          1234567890
+    _  _     _  _  _  _  _  _ 
+  | _| _||_||_ |_   ||_||_|| |
+  ||_  _|  | _||_|  ||_| _||_|
+
+]0;ealtoum@compute:~/cs2211/asn3[ealtoum@compute asn3]$ ./p2
+Enter an integer number:  -1234567890
+     _  _     _  _  _  _  _  _ 
+_  | _| _||_||_ |_   ||_||_|| |
+   ||_  _|  | _||_|  ||_| _||_|
+
+]0;ealtoum@compute:~/cs2211/asn3[ealtoum@compute asn3]$ ./p2
+Enter an integer number:  abc
+ERROR!
+]0;ealtoum@compute:~/cs2211/asn3[ealtoum@compute asn3]$ exit
+exit
+
+Script done on 2019-10-20 20:44:25-04:00

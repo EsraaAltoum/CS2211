@@ -1,0 +1,18 @@
+Script started on 2019-10-06 14:45:53-04:00
+]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ exit./p1[2Plsgcc CS2211_A2_Part1_ealtoum.c -o p1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kgcc CS2211_A2_Part1_ealtoum.c -o p1[1P[1@2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K2
+]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ ls
+A2_Part1_Script  A2_Part2_Script  CS2211_A2_Part1_ealtoum.c  CS2211_A2_Part2_ealtoum.c  [0m[38;5;40mp1[0m  [38;5;40mp2[0m  SubmForm.txt
+]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ ./p2
+Please enter a base: 2
+Please enter an exponent: 8
+2.000000^8 = 256.000000]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ ./p2
+Please enter a base: -9 10
+Invalid Entry: base must be positive
+Please enter a base: 10
+Please enter an exponent: -7
+Invalid Entry: exponent must be positive
+Please enter an exponent: 7
+10.000000^7 = 10000000.000000]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ exit
+exit
+
+Script done on 2019-10-06 14:47:08-04:00

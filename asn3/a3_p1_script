@@ -1,0 +1,37 @@
+Script started on 2019-10-20 18:36:23-04:00
+]0;ealtoum@compute:~/cs2211/asn3[ealtoum@compute asn3]$ p[K./p1
+Please input an expression:1+2
+3.000000 
+
+would you like to enter another expression? (Y/N) : y
+Please input an expression:1*2  -2
+-1.000000 
+
+would you like to enter another expression? (Y/N) : y
+Please input an expression:1*2
+2.000000 
+
+would you like to enter another expression? (Y/N) : y
+Please input an expression:1/2
+0.500000 
+
+would you like to enter another expression? (Y/N) : y
+Please input an expression:1*2  +2-3*4/5
+0.600000 
+
+would you like to enter another expression? (Y/N) : y
+Please input an expression:3.1415*1.67777/2.1819-.0909090+0 4.333333333
+6.658078 
+
+would you like to enter another expression? (Y/N) : 1        +2           y
+Please input an expression:1$2
+ERROR: Invalid Operator: $
+]0;ealtoum@compute:~/cs2211/asn3[ealtoum@compute asn3]$ ./p1
+Please input an expression:000+1
+1.000000 
+
+would you like to enter another expression? (Y/N) : N
+]0;ealtoum@compute:~/cs2211/asn3[ealtoum@compute asn3]$ exit
+exit
+
+Script done on 2019-10-20 18:38:35-04:00

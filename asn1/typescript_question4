@@ -1,0 +1,21 @@
+Script started on 2019-09-17 17:20:06-04:00
+]0;ealtoum@compute:~/Tmp/CS2211a[ealtoum@compute CS2211a]$ find -type d
+.
+./Asn
+./Asn/asn1
+./Asn/asn1/dir1
+./Asn/asn1/dir0
+./Labs
+./Labs/lab1
+]0;ealtoum@compute:~/Tmp/CS2211a[ealtoum@compute CS2211a]$ find -type d[8Pexitfind -Rr[Kman find[2Pls * *[Kdi* -d[4P-lexit more a.txt[1Pcat[C[C[C[C[C[Cd Labs/lab1/ls[Kcd Labs/lab1/[4Pat a.txt[1@more[C[C[C[C[C[C[5Pexit ls -ldi* -d*[K *man find[4Pfind -rR[3Pexitfind -type d[Kfind -type f -name d*
+./Asn/asn1/dir1/df1
+./Asn/asn1/dir0/df0
+]0;ealtoum@compute:~/Tmp/CS2211a[ealtoum@compute CS2211a]$ find -atime[K[K[K[K[Ktype -atime[K[K[K[K[K[Kfile[K[K[K -atime -2
+./typescript
+./Asn/asn1/dir1/df1
+./Asn/asn1/dir0/df0
+./Asn/asn1/typescript
+]0;ealtoum@compute:~/Tmp/CS2211a[ealtoum@compute CS2211a]$ exit
+exit
+
+Script done on 2019-09-17 17:22:04-04:00

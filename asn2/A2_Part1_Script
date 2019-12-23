@@ -1,0 +1,89 @@
+Script started on 2019-10-06 14:42:35-04:00
+]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ lscd asn1s[C[C[C[C[Cls[Kcd Asn[4Plscd CS2211als[Kcd Asn[4Plscs asn1d[C[C[C[C[Cls[K[Klscd asn1s[C[C[C[C[Cls[Kcd Asn[4Plscd CS2211als[Kcd[1Pscd Tmp[4Plscd[1Pscd CS2211als[Kcd Asn[4Plscs asn1d[C[C[C[C[Cls[K[Kgcc CS2211_A2_Part1_ealtoum.c -O[Ko p1
+]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ ls
+A2_Part1_Script  CS2211_A2_Part1_ealtoum.c  CS2211_A2_Part2_ealtoum.c  [0m[38;5;40mp1[0m  SubmForm.txt
+]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ ./p1
+Please select one of the following:
+1. conversion between Kilometer and Mile
+2. conversion between Meter and Feet
+3. conversion between Centimetre and Inch
+4. conversion between Celsius and Fahrenheit
+5. quit
+
+Choice: 1
+
+What is the direction of the conversion wanted?(K or M): K
+
+Please enter the value to be converted: 10
+
+10.000000 Kilometers is 6.213710 Miles 
+
+Please select one of the following:
+1. conversion between Kilometer and Mile
+2. conversion between Meter and Feet
+3. conversion between Centimetre and Inch
+4. conversion between Celsius and Fahrenheit
+5. quit
+
+Choice: 2
+
+What is the direction of the conversion wanted?(M or F): F
+
+Please enter the value to be converted: 10
+
+10.000000 Meters is 32.808400 Feet 
+
+Please select one of the following:
+1. conversion between Kilometer and Mile
+2. conversion between Meter and Feet
+3. conversion between Centimetre and Inch
+4. conversion between Celsius and Fahrenheit
+5. quit
+
+Choice: 3
+
+What is the direction of the conversion wanted?(C or I): C
+
+Please enter the value to be converted: 1 100
+
+100.000000 Inches is 254.000000 Centimeters 
+
+Please select one of the following:
+1. conversion between Kilometer and Mile
+2. conversion between Meter and Feet
+3. conversion between Centimetre and Inch
+4. conversion between Celsius and Fahrenheit
+5. quit
+
+Choice: 4
+
+What is the direction of the conversion wanted (C or F): F
+
+Please enter the value to be converted: 25
+
+25.000000 Celsius is 57.000000 Fahrenheit 
+
+Please select one of the following:
+1. conversion between Kilometer and Mile
+2. conversion between Meter and Feet
+3. conversion between Centimetre and Inch
+4. conversion between Celsius and Fahrenheit
+5. quit
+
+Choice: 6
+
+
+Please select one of the following:
+1. conversion between Kilometer and Mile
+2. conversion between Meter and Feet
+3. conversion between Centimetre and Inch
+4. conversion between Celsius and Fahrenheit
+5. quit
+
+Choice: 5
+
+
+]0;ealtoum@compute:~/cs2211/asn2[ealtoum@compute asn2]$ exit
+exit
+
+Script done on 2019-10-06 14:44:40-04:00
